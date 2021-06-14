@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy Bullet
+  - Bullet
+  - Module
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Attachment Points
+  - Connection Points
+  - Player
+  - Bullet
+  - EnemyBullet
+  - Enemy
+  - Asteroids
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3601188211
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Asteroids
+    uniqueID: 494357689
+    locked: 0
+  - name: Bullets
+    uniqueID: 4126429745
+    locked: 0
+  - name: UI
+    uniqueID: 3182733269
+    locked: 0
